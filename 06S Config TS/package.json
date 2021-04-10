@@ -1,0 +1,12 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn tsc --watch --preserveWatchOutput"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
