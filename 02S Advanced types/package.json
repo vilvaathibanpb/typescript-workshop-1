@@ -1,0 +1,12 @@
+{
+  "name": "01-basic-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn tsc index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
